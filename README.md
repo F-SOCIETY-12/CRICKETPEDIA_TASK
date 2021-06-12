@@ -8,7 +8,7 @@
 Description - This project is basically convert the long Url into HASH url.After this hash conversion we can access or send the shorted hash link,
 2. It also has a user authentication feature based on cookies for more privacy and security reasons.
 
-Things which are yet to be done due to lack of time: -
+Tasks which are still left due to lack of time: -
 
 1.Saving the HASH,URls,Visitors in the Database.
 2.There are many glitches left ,will make more smooth and responsive in future.

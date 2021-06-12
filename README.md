@@ -4,6 +4,7 @@
 1.b for backend - JS,EXPRESS JS.
 1.c for cookies - EXPRESS-SESSION package.
 1.d for database - Sequelize,sqlite3.
+1.e for Testing without api - POSTMAN
 
 Description - This project is basically convert the long Url into HASH url.After this hash conversion we can access or send the shorted hash link,
 2. It also has a user authentication feature based on cookies for more privacy and security reasons.

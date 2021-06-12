@@ -27,8 +27,9 @@ Things which are yet to be done -
 ![Screenshot (54)](https://user-images.githubusercontent.com/61931894/121771562-b0162280-cb8d-11eb-9b82-58d8c06b595a.png)
 
 //Fourth one
+//There is some CSS integration error can be fix soon.
 ![Screenshot (55)](https://user-images.githubusercontent.com/61931894/121771567-b7d5c700-cb8d-11eb-8b9b-b203d9437f62.png)
 
-//Fifth One
+//Fifth One (CSS error)
 ![Screenshot (56)](https://user-images.githubusercontent.com/61931894/121771578-c7551000-cb8d-11eb-838d-7dd9f3f85522.png)
 
